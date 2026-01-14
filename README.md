@@ -1,1 +1,1 @@
-# Blinking-LED-Wave
+# Project 1 & 2
